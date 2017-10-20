@@ -5,8 +5,8 @@
  * Copiar los ejemplos de lenguaje de marcas: RTF, XML y HTML.
    * cada uno _en un documento **diferente**_.
  * Una vez copiados, debían guardarse con la extensión pertinente (RTF, XML o HTML).
- * Para finalizar con los preparativos, debíamos abrir cada documento con el pogramario pertinente.
- * Si no el documento no se veía bien, **teníamos que volver al paso anterior y _asegurarnos_ que no había ningún error**.
+ * Para finalizar con los preparativos, debíamos abrir cada documento con el programario pertinente.
+ * Si el documento no se veía bien, **teníamos que volver al paso anterior y _asegurarnos_ que no había ningún error**.
  
 2. Una vez _terminados los **documentos**_, pasamos a dos diferentes tareas.
  * La primera es registrarnos en [GitHub][Github] y **abrir un repositorio**.
