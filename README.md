@@ -22,6 +22,6 @@
  4. Cuando hayamos terminado con los ejercicios anteriores sólo nos queda una tarea:
   * **Editar el Readme.md** para demostrar que, ¡hemos aprendido algo de _Markdown_!
   
-  [Github]: http://github.com
+  [Github]: github.com
   [Tutorial MarkDown]: http://www.markdowntutorial.com
-  [RawGit]: http://rawgit.com
+  [RawGit]: https://rawgit.com
